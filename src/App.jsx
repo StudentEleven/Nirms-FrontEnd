@@ -22,7 +22,6 @@ function App() {
   return (
     <Router>
       <div className=" bg-gray-100">
-        <h1>hello</h1>
         <Navbar />
         <div className="flex h-screen w-screen">
           <Sidemenu />
